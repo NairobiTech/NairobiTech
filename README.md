@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NairobiTech
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me cetricka@gmail.com
