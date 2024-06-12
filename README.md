@@ -1,6 +1,6 @@
 <h4 align="start">Nerdy Software Engineer from Kenya</h3>
 
-- 👋 Hi, I’m @NairobiTech  <p align="center"> <img src="https://komarev.com/ghpvc/?username=NairobiTech&label=Profile%20views&color=0e75b6&style=flat" alt="NairobiTech" /> </p>
+- 👋 Hi, I’m @NairobiTech
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on projects
@@ -13,15 +13,15 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gichbuoy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gichbuoy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NairobiTech&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NairobiTech&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Gichbuoy&theme=blue-navy&hide_border=true&exclude_days=Sun" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=NairobiTech&theme=blue-navy&hide_border=true" alt="GitHub Streak" />
 </details>
 
 ## Languages
